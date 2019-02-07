@@ -1,0 +1,11 @@
+D:\Core Examples\HourGlassSum\bin\Debug\netcoreapp2.1\HourGlassSum.deps.json
+D:\Core Examples\HourGlassSum\bin\Debug\netcoreapp2.1\HourGlassSum.runtimeconfig.json
+D:\Core Examples\HourGlassSum\bin\Debug\netcoreapp2.1\HourGlassSum.runtimeconfig.dev.json
+D:\Core Examples\HourGlassSum\bin\Debug\netcoreapp2.1\HourGlassSum.dll
+D:\Core Examples\HourGlassSum\bin\Debug\netcoreapp2.1\HourGlassSum.pdb
+D:\Core Examples\HourGlassSum\obj\Debug\netcoreapp2.1\HourGlassSum.csprojAssemblyReference.cache
+D:\Core Examples\HourGlassSum\obj\Debug\netcoreapp2.1\HourGlassSum.csproj.CoreCompileInputs.cache
+D:\Core Examples\HourGlassSum\obj\Debug\netcoreapp2.1\HourGlassSum.AssemblyInfoInputs.cache
+D:\Core Examples\HourGlassSum\obj\Debug\netcoreapp2.1\HourGlassSum.AssemblyInfo.cs
+D:\Core Examples\HourGlassSum\obj\Debug\netcoreapp2.1\HourGlassSum.dll
+D:\Core Examples\HourGlassSum\obj\Debug\netcoreapp2.1\HourGlassSum.pdb
